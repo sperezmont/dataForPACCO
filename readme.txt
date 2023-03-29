@@ -46,3 +46,7 @@ Spratt, R. M., & Lisiecki, L. E. (2016). A Late Pleistocene sea level stack. Cli
 
 Waelbroeck, C., Labeyrie, L., Michel, E., Duplessy, J. C., Mcmanus, J. F., Lambeck, K., ... & Labracherie, M. (2002). Sea-level and deep water temperature changes derived from benthic foraminifera isotopic records. Quaternary science reviews, 21(1-3), 295-305.
 
+* Hodell-etal_2023:
+
+Hodell, David A; Crowhurst, Simon J; Lourens, Lucas Joost; Margari, Vasiliki; Nicolson, John; Rolfe, James E; Skinner, Luke C; Thomas, Nicola C; Tzedakis, Polychronis C; Mleneck-Vautravers, Maryline J; Wolff, Eric William (2023): Benthic and planktonic oxygen and carbon isotopes and XRF data at IODP Site U1385 and core MD01-2444 from 0 to 1.5 Ma. PANGAEA, https://doi.org/10.1594/PANGAEA.951401
+
