@@ -1,0 +1,138 @@
+/* DATA DESCRIPTION:
+Citation:	Hodell, David A; Crowhurst, Simon J; Lourens, Lucas Joost; Margari, Vasiliki; Nicolson, John; Rolfe, James E; Skinner, Luke C; Thomas, Nicola C; Tzedakis, Polychronis C; Mleneck-Vautravers, Maryline J; Wolff, Eric William (2023): Hybrid age model from sediment core MD01-2444 and IODP Site 339-U1385. PANGAEA, https://doi.org/10.1594/PANGAEA.951393, 
+	In: Hodell, DA et al. (2023): Benthic and planktonic oxygen and carbon isotopes and XRF data at IODP Site U1385 and core MD01-2444 from 0 to 1.5 Ma. PANGAEA, https://doi.org/10.1594/PANGAEA.951401
+Keyword(s):	Benthic and planktonic foraminifera; IODP 339; MD01-2444; oxygen and carbon isotopes; XRF data
+Project(s):	Integrated Ocean Drilling Program / International Ocean Discovery Program (IODP) (URI: https://www.iodp.org/)
+Funding:	Leverhulme Trust, grant/award no. RPG2014-417
+	Natural Environment Research Council (NERC) (URI: http://www.nerc.ac.uk/), grant/award no. NE/J00653X/1
+	Natural Environment Research Council (NERC) (URI: http://www.nerc.ac.uk/), grant/award no. NE/J017922/1
+	Natural Environment Research Council (NERC) (URI: http://www.nerc.ac.uk/), grant/award no. NE/K005804/1
+	Natural Environment Research Council (NERC) (URI: http://www.nerc.ac.uk/), grant/award no. NE/R000204/1
+Coverage:	MEDIAN LATITUDE: 37.568208 * MEDIAN LONGITUDE: -10.130014 * SOUTH-BOUND LATITUDE: 37.565000 * WEST-BOUND LONGITUDE: -10.134000 * NORTH-BOUND LATITUDE: 37.571416 * EAST-BOUND LONGITUDE: -10.126027
+	DATE/TIME START: 2011-11-25T00:00:00 * DATE/TIME END: 2011-11-25T00:00:00
+	MINIMUM ELEVATION: -2656.0 m * MAXIMUM ELEVATION: -2587.0 m
+Event(s):	339-U1385 * LATITUDE: 37.571416 * LONGITUDE: -10.126027 * DATE/TIME: 2011-11-25T00:00:00 * ELEVATION: -2587.0 m * CAMPAIGN: Exp339 (Mediterranean Outflow) (URI: https://doi.org/10.2204/iodp.proc.339.2013) * BASIS: Joides Resolution (URI: http://www-odp.tamu.edu/resolutn.html) * METHOD/DEVICE: Composite Core (COMPCORE)
+	MD01-2444 * LATITUDE: 37.565000 * LONGITUDE: -10.134000 * ELEVATION: -2656.0 m * CAMPAIGN: MD123 (GEOSCIENCES, MARMARCORE) * BASIS: Marion Dufresne (1995) (URI: https://en.wikipedia.org/wiki/Marion_Dufresne_(1994)) * METHOD/DEVICE: Calypso Corer (CALYPSO)
+Parameter(s):	Event label (Event) * PI: Hodell, David A (https://orcid.org/0000-0001-8537-1588, dah73@cam.ac.uk)
+	Depth, composite revised, corrected [crmcd] (Depth corr cr) * PI: Hodell, David A (https://orcid.org/0000-0001-8537-1588, dah73@cam.ac.uk)
+	AGE [ka BP] (Age) * GEOCODE * PI: Hodell, David A (https://orcid.org/0000-0001-8537-1588, dah73@cam.ac.uk)
+	Sedimentation rate [cm/ka] (SR) * PI: Hodell, David A (https://orcid.org/0000-0001-8537-1588, dah73@cam.ac.uk)
+	Age, comment (Comm) * PI: Hodell, David A (https://orcid.org/0000-0001-8537-1588, dah73@cam.ac.uk)
+	Reference/source (Reference) * PI: Hodell, David A (https://orcid.org/0000-0001-8537-1588, dah73@cam.ac.uk)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Curation_levels)
+Size:	447 data points
+*/
+Event	Depth corr cr [crmcd]	Age [ka BP]	SR [cm/ka]	Comm	Reference
+MD01-2444	0.00	0.00		assume top is 0 age	Hodell et al. 2013
+MD01-2444	0.37	2.42	15.50	correlation	Hodell et al. 2013
+MD01-2444	1.31	8.07	16.46	correlation	Hodell et al. 2013
+MD01-2444	1.50	11.47	5.86	WAIS	this study
+MD01-2444	1.55	11.72	19.60	WAIS	this study
+MD01-2444	1.58	12.55	2.91	WAIS	this study
+MD01-2444	1.72	14.57	7.14	WAIS	this study
+MD01-2444	2.75	18.16	28.67	WAIS	this study
+MD01-2444	4.35	23.93	27.62	WAIS	this study
+MD01-2444	5.49	28.91	23.07	WAIS	this study
+MD01-2444	5.85	30.69	20.11	WAIS	this study
+MD01-2444	6.23	32.49	20.92	WAIS	this study
+MD01-2444	6.61	33.84	28.03	WAIS	this study
+MD01-2444	7.19	35.58	33.15	WAIS	this study
+MD01-2444	7.98	38.38	28.35	WAIS	this study
+MD01-2444	8.49	40.28	26.74	WAIS	this study
+MD01-2444	8.80	41.44	27.47	WAIS	this study
+MD01-2444	8.88	41.69	31.38	WAIS	this study
+MD01-2444	9.04	42.13	36.20	WAIS	this study
+MD01-2444	9.34	43.27	26.34	WAIS	this study
+MD01-2444	9.63	44.04	37.52	WAIS	this study
+MD01-2444	10.33	47.05	23.15	WAIS	this study
+MD01-2444	10.64	49.76	11.50	WAIS	this study
+MD01-2444	10.91	52.15	11.26	WAIS	this study
+MD01-2444	11.90	54.47	42.80	WAIS	this study
+MD01-2444	12.52	57.06	23.67	WAIS	this study
+MD01-2444	12.92	58.65	25.56	WAIS	this study
+MD01-2444	13.09	59.07	41.06	WAIS	this study
+MD01-2444	13.88	64.29	14.98	WAIS	this study
+MD01-2444	14.03	66.75	6.13	GrSyn	Hodell et al. 2013
+MD01-2444	14.95	75.10	11.09	GrSyn	Hodell et al. 2013
+MD01-2444	15.28	77.05	16.67	GrSyn	Hodell et al. 2013
+MD01-2444	16.26	83.86	14.43	GrSyn	Hodell et al. 2013
+MD01-2444	16.60	87.27	9.94	GrSyn	Hodell et al. 2013
+MD01-2444	18.82	103.38	13.80	GrSyn	Hodell et al. 2013
+MD01-2444	19.10	106.04	10.45	GrSyn	Hodell et al. 2013
+MD01-2444	19.52	109.67	11.63	GrSyn	Hodell et al. 2013
+MD01-2444	19.61	110.00	26.36	Corchia	Tzedakis et al. (2018)
+MD01-2444	20.01	113.10	12.77	Corchia	Tzedakis et al. (2018)
+MD01-2444	20.22	114.90	11.78	Corchia	Tzedakis et al. (2018)
+MD01-2444	20.38	117.00	7.76	Corchia	Tzedakis et al. (2018)
+MD01-2444	20.52	119.10	6.52	Corchia	Tzedakis et al. (2018)
+MD01-2444	20.95	121.45	18.26	Corchia	Tzedakis et al. (2018)
+MD01-2444	21.09	122.85	10.36	Corchia	Tzedakis et al. (2018)
+MD01-2444	21.33	126.10	7.29	Corchia	Tzedakis et al. (2018)
+MD01-2444	21.43	126.70	17.50	Corchia	Tzedakis et al. (2018)
+MD01-2444	21.81	128.90	17.00	Corchia	Tzedakis et al. (2018)
+MD01-2444	22.08	131.75	9.44	Corchia	Tzedakis et al. (2018)
+MD01-2444	22.28	134.20	8.33	Corchia	Tzedakis et al. (2018)
+MD01-2444	22.63	137.80	9.75	Corchia	Tzedakis et al. (2018)
+MD01-2444	22.76	139.00	10.67	Corchia	Tzedakis et al. (2018)
+MD01-2444	23.14	141.68	14.23	AICC2012	Shin et al. (2020)
+MD01-2444	24.44	150.29	15.13	AICC2012	Shin et al. (2020)
+MD01-2444	25.30	160.39	8.49	AICC2012	Shin et al. (2020)
+MD01-2444	25.52	163.88	6.39	AICC2012	Shin et al. (2020)
+MD01-2444	26.26	170.39	11.26	AICC2012	Shin et al. (2020)
+MD01-2444	26.70	174.65	10.51	AICC2012	Shin et al. (2020)
+MD01-2444	26.96	178.42	6.86	AICC2012	Shin et al. (2020)
+MD01-2444	27.03	180.03	4.04	AICC2012	Shin et al. (2020)
+MD01-2444	28.16	190.30	11.01	AICC2012	Shin et al. (2020)
+MD01-2444	28.45	194.19	7.51	AICC2012	Shin et al. (2020)
+339-U1385	28.83	195.89	22.30	Mediterranean saprosel	this study
+339-U1385	31.11	212.32	13.88	Mediterranean saprosel	this study
+339-U1385	33.37	240.06	8.15	Mediterranean saprosel	this study
+339-U1385	40.65	289.16	14.83	Mediterranean saprosel	this study
+339-U1385	44.14	310.58	16.29	Mediterranean saprosel	this study
+339-U1385	46.63	331.94	11.66	Mediterranean saprosel	this study
+339-U1385	47.28	340.95	7.21	MIS 11 hiatus	this study
+339-U1385	51.51	372.21	13.53	MIS 11 hiatus	this study
+339-U1385	54.24	395.56	11.69	MIS 11 hiatus	this study
+339-U1385	55.32	400.84	20.45	MIS 11 hiatus	this study
+339-U1385	55.71	415.27	2.70	MIS 11 hiatus	this study
+339-U1385	55.75	431.53	0.25	MIS 11 hiatus	this study
+339-U1385	55.79	432.65	3.57	Mediterranean saprosel	this study
+339-U1385	59.85	485.03	7.75	Mediterranean saprosel	this study
+339-U1385	62.64	503.79	14.87	Mediterranean saprosel	this study
+339-U1385	66.07	525.05	16.13	Mediterranean saprosel	this study
+339-U1385	66.66	527.98	20.14	Mediterranean saprosel	this study
+339-U1385	72.94	575.92	13.10	Mediterranean saprosel	this study
+339-U1385	74.14	600.33	4.92	Mediterranean saprosel	this study
+339-U1385	76.42	617.26	13.47	Mediterranean saprosel	this study
+339-U1385	77.83	645.64	4.97	Mediterranean saprosel	this study
+339-U1385	79.31	668.81	6.39	Mediterranean saprosel	this study
+339-U1385	81.30	688.63	10.04	Mediterranean saprosel	this study
+339-U1385	83.29	711.86	8.57	Mediterranean saprosel	this study
+339-U1385	86.28	732.38	14.57	Mediterranean saprosel	this study
+339-U1385	93.25	804.93	9.61	Mediterranean saprosel	this study
+339-U1385	95.39	821.20	13.15	Mediterranean saprosel	this study
+339-U1385	97.78	846.46	9.46	Mediterranean saprosel	this study
+339-U1385	101.61	892.80	8.26	Mediterranean saprosel	this study
+339-U1385	104.58	921.10	10.49	Mediterranean saprosel	this study
+339-U1385	107.15	937.70	15.48	Mediterranean saprosel	this study
+339-U1385	109.49	957.80	11.64	Mediterranean saprosel	this study
+339-U1385	113.04	996.40	9.20	Mediterranean saprosel	this study
+339-U1385	116.33	1026.00	11.11	Mediterranean saprosel	this study
+339-U1385	119.88	1050.30	14.61	Mediterranean saprosel	this study
+339-U1385	122.04	1069.90	11.02	Mediterranean saprosel	this study
+339-U1385	124.07	1093.30	8.68	Mediterranean saprosel	this study
+339-U1385	126.81	1118.40	10.92	Mediterranean saprosel	this study
+339-U1385	132.26	1166.70	11.28	Mediterranean saprosel	this study
+339-U1385	134.58	1184.25	13.22	precession	Birner et al. 2016
+339-U1385	136.96	1222.50	6.22	Mediterranean saprosel	this study
+339-U1385	140.54	1241.00	19.35	precession	Birner et al. 2016
+339-U1385	142.03	1260.75	7.54	precession	Birner et al. 2016
+339-U1385	144.64	1281.00	12.89	precession	Birner et al. 2016
+339-U1385	146.00	1298.25	7.88	precession	Birner et al. 2016
+339-U1385	148.48	1314.60	15.17	precession	Birner et al. 2016
+339-U1385	152.00	1337.70	15.24	Mediterranean saprosel	this study
+339-U1385	154.85	1355.70	15.83	precession	Birner et al. 2016
+339-U1385	157.19	1380.00	9.63	Mediterranean saprosel	this study
+339-U1385	160.92	1401.80	17.11	Mediterranean saprosel	this study
+339-U1385	166.12	1430.00	18.45	Oxygen isotope	this study

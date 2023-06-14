@@ -1,0 +1,20 @@
+/* DATA DESCRIPTION:
+Citation:	Hodell, David A; Crowhurst, Simon J; Lourens, Lucas Joost; Margari, Vasiliki; Nicolson, John; Rolfe, James E; Skinner, Luke C; Thomas, Nicola C; Tzedakis, Polychronis C; Mleneck-Vautravers, Maryline J; Wolff, Eric William (2023): Various age models from sediment core MD01-2444 and IODP Site 339-U1385. PANGAEA, https://doi.org/10.1594/PANGAEA.951387, 
+	In: Hodell, DA et al. (2023): Benthic and planktonic oxygen and carbon isotopes and XRF data at IODP Site U1385 and core MD01-2444 from 0 to 1.5 Ma. PANGAEA, https://doi.org/10.1594/PANGAEA.951401
+Keyword(s):	Benthic and planktonic foraminifera; IODP 339; MD01-2444; oxygen and carbon isotopes; XRF data
+Project(s):	Integrated Ocean Drilling Program / International Ocean Discovery Program (IODP) (URI: https://www.iodp.org/)
+Funding:	Leverhulme Trust, grant/award no. RPG2014-417
+	Natural Environment Research Council (NERC) (URI: http://www.nerc.ac.uk/), grant/award no. NE/J00653X/1
+	Natural Environment Research Council (NERC) (URI: http://www.nerc.ac.uk/), grant/award no. NE/J017922/1
+	Natural Environment Research Council (NERC) (URI: http://www.nerc.ac.uk/), grant/award no. NE/K005804/1
+	Natural Environment Research Council (NERC) (URI: http://www.nerc.ac.uk/), grant/award no. NE/R000204/1
+Parameter(s):	Office Open XML Workbook (XLSX) * PI: Hodell, David A (https://orcid.org/0000-0001-8537-1588, dah73@cam.ac.uk)
+	File content (Content) * PI: Hodell, David A (https://orcid.org/0000-0001-8537-1588, dah73@cam.ac.uk)
+License:	Creative Commons Attribution 4.0 International (CC-BY-4.0)
+Status:	Curation Level: Enhanced curation (URI: https://wiki.pangaea.de/wiki/Curation_levels)
+Size:	4 data points
+Files:	All files referred to in data matrix can be downloaded in one go as ZIP <https://download.pangaea.de/dataset/951387/allfiles.zip> or TAR <https://download.pangaea.de/dataset/951387/allfiles.tar> (PANGAEA user account required). To download single files, use the filename from data matrix appended to "https://download.pangaea.de/dataset/951387/files/".
+*/
+XLSX	Content
+Age_model_MD01-2444.xlsx	Various age models of sediment core MD01-2444
+Age_Model_U1385.xlsx	Various age models for IODP Site 339-U1385
