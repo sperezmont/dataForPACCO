@@ -5,9 +5,9 @@
 % Results from three separate simulations of the last 3.6 Myr with the hybrid ice-sheet - climate model.
 %
 % SL   = Global mean sea-level (m w.r.t. PD)
-% pCO2 = Atmospheric CO2 concentration (ppmv)
+% C = Atmospheric CO2 concentration (ppmv)
 %
-% Time (kyr ago)    SL   SL_lower   SL_upper     pCO2   pCO2_lower   pCO2_upper
+% Time (kyr ago)    SL   SL_lower   SL_upper     C   C_lower   C_upper
 -3599.9          -0.18      -0.18      -0.18     317.73     301.28       334.17
 -3599.8          -0.17      -0.28      -0.14     318.62     302.14       335.17
 -3599.7          -0.12      -0.35      -0.06     318.61     302.32       335.23
